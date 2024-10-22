@@ -1,0 +1,30 @@
+.main{
+  background-color: #fff;
+  padding:25px;
+  border-radius:10px;
+  display: flex;
+  flex-direction: column;
+  gap:30px;
+  align-items: center;
+}
+.maininput{
+  width:350px;
+  display: flex;
+  justify-content: space-between;
+}
+img{
+  height:350px;
+  width:350px;
+}
+input{
+  font-size:20px;
+  background-color: rgb(228, 243, 243);
+  border: none;
+  outline: none;
+  padding-left:10px;
+  border-radius:10px;
+}
+.button{
+  background-color: aqua;
+  font-size:10px;
+}
